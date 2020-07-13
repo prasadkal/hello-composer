@@ -13,5 +13,6 @@
 	"autoload": {
         "psr-4": {"prasad\\HelloWorld\\": "src/"}
     },
+     "version": "1.0.0",
     "require": {}
 }
