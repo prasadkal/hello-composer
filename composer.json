@@ -1,5 +1,5 @@
 {
-    "name": "prasad/hello-composer",
+    "name": "prasad/hello-prasad-composer",
     "description": "This is hello world package composer",
     "type": "library",
     "license": "MIT",
